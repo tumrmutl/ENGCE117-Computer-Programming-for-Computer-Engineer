@@ -13,11 +13,12 @@ int main() {
 }//end function
 ```
 
-## Input
+## Testcase 1
+### Input
 ```bash
 533
 ```
-## Output
+### Output
 ```bash
 533
 ```
