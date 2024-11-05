@@ -17,4 +17,9 @@ int main() {
     return 0 ;
 }//end function
 ```
+
+> [!NOTE]
+> `initialize` can only be called once (and it should be called BEFORE creating your first editor).
+
+
 Hi
