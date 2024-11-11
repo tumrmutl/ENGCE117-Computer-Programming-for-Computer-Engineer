@@ -15,8 +15,8 @@ ENGCC304  การเขียนโปรแกรมคอมพิวเต�
 * สอบปลายภาค (Final) 20%
 
 ### ลิงค์เอกสารที่เกี่ยวข้อง
-* [มคอ.3](https://drive.google.com/drive/folders/1OWlzmm3MZ1Uy2SKScJGQS5_IJr8BCSCR?usp=drive_link)
-* [เอกสารประกอบการเรียน/Slide](https://drive.google.com/drive/folders/1OWlzmm3MZ1Uy2SKScJGQS5_IJr8BCSCR?usp=drive_link)
+* [มคอ.3](https://docs.google.com/document/d/1WHoxwYazWH7OdnVm56_z0LaLQHmLAhbA7fRn0yG5m_Y/edit?usp=sharing)
+* [เอกสารประกอบการเรียน/Slide](https://drive.google.com/drive/folders/18yq_AvC9nJS1tFPI63SnPklVF7EagrN7?usp=sharing)
 * [ห้องแชทใน MS Team](https://teams.microsoft.com/l/team/19%3ASRc4lB9z91Vay6mrtEaEm14MyYUYn_hccTzFXdp1NyE1%40thread.tacv2/conversations?groupId=37d36e7f-c2eb-4dcf-9320-32ee74544bd8&tenantId=2c0a3819-8c66-4ae1-9a99-3832d9facbd9)
 * [เอกสารอ้างอิง](https://autolib.rmutl.ac.th/Catalog/BibItem.aspx?BibID=b00141555)
 * [โปรแกรม VS Code](https://code.visualstudio.com/download)
