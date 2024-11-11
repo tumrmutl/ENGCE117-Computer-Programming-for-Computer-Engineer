@@ -53,7 +53,7 @@
 14| **การประยุกต์ : การหาค่ามากที่สุด และ น้อยที่สุด** <br />เรียนรู้และเข้าใจ หลักการประยุกต์โดยใช้พื้นฐานการเขียนโปรแกรมด้วยภาษาซี <br /><br />**วีดีโอย้อนหลัง** : -<br />**Lab** : [Lab](https://github.com/tumrmutl/ENGCC304-Computer-Programming/blob/main/Lab/Lab14-Min-Max.md)
 15| **การประยุกต์ : การจัดการไฟล์ข้อมูล** <br />เรียนรู้และเข้าใจการจัดการไฟล์ข้อมูล การอ่านไฟล์ การเขียนไฟล์ การบันทึก และการอัพเดต ประยุกต์ใช้หลักการส่งผ่านค่าด้วยโครงสร้างข้อมูล ฯลฯ <br /><br />**วีดีโอย้อนหลัง** : -<br />**Lab** : [Lab](https://github.com/tumrmutl/ENGCC304-Computer-Programming/blob/main/Lab/Lab15-File.md)
 16| **ทบทวนบทเรียน** <br />ทบทวนบทเรียน ด้วยบทประยุกต์การทำงานพื้นฐานภาษาซีด้วยการแก้ปัญหาการค้นหาข้อมูล และ การจัดเรียงข้อมูลเบื้องต้น <br /><br />**วีดีโอย้อนหลัง** : -<br />**Lab** : [Lab](https://github.com/tumrmutl/ENGCC304-Computer-Programming/blob/main/Lab/Lab16-Basic-Sort-Search.md)
-17| **ทบทวนบทเรียน** <br />ทบทวนบทเรียน ด้วยบทประยุกต์การทำงานพื้นฐานภาษาซีด้วยการแก้ปัญหาการค้นหาข้อมูล และ การจัดเรียงข้อมูลเบื้องต้น <br /><br />**วีดีโอย้อนหลัง** : -<br />**Lab** : [Lab](https://github.com/tumrmutl/ENGCC304-Computer-Programming/blob/main/Lab/Lab17-Apply.md)<br />**แบบทดสอบ** : [บฝ.](https://forms.office.com/r/YDS1Z0UgrG)
+17| **ทบทวนบทเรียน** <br />ทบทวนบทเรียน ด้วยบทประยุกต์การทำงานพื้นฐานภาษาซีด้วยการแก้ปัญหาการค้นหาข้อมูล และ การจัดเรียงข้อมูลเบื้องต้น <br /><br />**วีดีโอย้อนหลัง** : -<br />**Lab** : [Lab](https://github.com/tumrmutl/ENGCC304-Computer-Programming/blob/main/Lab/Lab17-Apply.md)
 18| **สอบปลายภาค** <br /><br />**วีดีโอย้อนหลัง** : -<br />**Lab** : [Lab](https://github.com/tumrmutl/ENGCC304-Computer-Programming/blob/main/Lab/Lab18-Apply.md)
 
 ### อื่นๆ
