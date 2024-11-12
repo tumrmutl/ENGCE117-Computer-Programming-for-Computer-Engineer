@@ -55,63 +55,7 @@ void SaveNode( struct studentNode *child, char n[], int a, char s, float g ) {
 ```
 ### Output
 ```bash
-
-```
-
-## TEST CASE
-### Input
-```bash
-
-```
-### Output
-```bash
-
-```
-
-## TEST CASE
-### Input
-```bash
-
-```
-### Output
-```bash
-
-```
-## TEST CASE
-### Input
-```bash
-
-```
-### Output
-```bash
-
-```
-## TEST CASE
-### Input
-```bash
-
-```
-### Output
-```bash
-
-```
-## TEST CASE
-### Input
-```bash
-
-```
-### Output
-```bash
-
-```
-## TEST CASE
-### Input
-```bash
-
-```
-### Output
-```bash
-
+two 8 F 3.22
 ```
 
 ## มาตรฐานการตรวจตามหลักการเรียนรู้ของบลูม
