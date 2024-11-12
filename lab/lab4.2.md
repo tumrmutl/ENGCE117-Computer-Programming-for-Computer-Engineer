@@ -12,9 +12,9 @@ int main() {
     int *c = new int ; *c = 20 ;
     int **a ;
     go( &a, &b ) ;
-    printf( "%d %p %p %p ", **a, *a, a, &a ) ;
+    printf( "%d %p %p %p \n", **a, *a, a, &a ) ;
     go( &a, &c ) ;
-    printf( "%d %p %p %p ", **a, *a, a, &a ) ;
+    printf( "%d %p %p %p \n", **a, *a, a, &a ) ;
     return 0 ;
 }//end function
 ```
@@ -26,7 +26,8 @@ int main() {
 ```
 ### Output
 ```bash
-10 0x564f3b9d0b50 0x564f3b9d0b60 0x7ffee4c18bb0 20 0x564f3b9d0b50 0x564f3b9d0b60 0x7ffee4c18bb0
+10 0x564f3b9d0b50 0x564f3b9d0b60 0x7ffee4c18bb0
+20 0x564f3b9d0b50 0x564f3b9d0b60 0x7ffee4c18bb0
 ```
 
 ## มาตรฐานการตรวจตามหลักการเรียนรู้ของบลูม
