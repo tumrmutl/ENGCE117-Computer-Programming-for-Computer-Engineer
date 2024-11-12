@@ -9,7 +9,7 @@ splitter = '/'
 จะได้ผลลัพธ์คือ
 str2[0] = "I"
 str2[1] = "Love"
-str2[1] = "You"
+str2[2] = "You"
 
 count = 3
 
