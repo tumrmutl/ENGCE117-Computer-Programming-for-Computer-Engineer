@@ -1,9 +1,23 @@
 ## โจทย์
--
+จงเขียนคำสั่งในการสร้างและเรียกใช้ฟังก์ชันตามอัลกอริทึม Knapsack Problem - Backtracking
 
 ## PRE CODE
 ```c++
+#include <stdio.h>
 
+int KnapsackBT( int *w, int *v, int n, int wx, int i, int *x ) ;
+
+int main() {
+    int n = 5, wx = 11 ;
+    int w[ 5 ] = { 1, 2, 5, 6, 7 } ;
+    int v[ 5 ] = { 1, 6, 18, 22, 28 } ;
+    int *x, vx ;
+    x = new int[ n ] ;
+    vx = KnapsackBT( w, v, n, wx, 0, x ) ;
+    printf( "Value = %d ", vx ) ;
+    for( int i = 0 ; i < n ; i++ ) printf( "%d ", x[ i ] ) ;
+    return 0 ;
+}//end function
 ```
 
 ## TEST CASE
@@ -13,63 +27,8 @@
 ```
 ### Output
 ```bash
-
-```
-
-## TEST CASE
-### Input
-```bash
-
-```
-### Output
-```bash
-
-```
-
-## TEST CASE
-### Input
-```bash
-
-```
-### Output
-```bash
-
-```
-## TEST CASE
-### Input
-```bash
-
-```
-### Output
-```bash
-
-```
-## TEST CASE
-### Input
-```bash
-
-```
-### Output
-```bash
-
-```
-## TEST CASE
-### Input
-```bash
-
-```
-### Output
-```bash
-
-```
-## TEST CASE
-### Input
-```bash
-
-```
-### Output
-```bash
-
+Value = 40
+0 0 1 1 0
 ```
 
 ## มาตรฐานการตรวจตามหลักการเรียนรู้ของบลูม

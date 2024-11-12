@@ -1,9 +1,24 @@
 ## โจทย์
--
+จงเขียนคำสั่งในการสร้างและเรียกใช้ฟังก์ชันตามอัลกอริทึม Root of function
 
 ## PRE CODE
 ```c++
 
+#include <stdio.h>
+
+double f( double x ) ;
+double RootOfFunction( double xl, double xr, double epsilon ) ;
+
+int main() {
+    double root ;
+    root = RootOfFunction( -1, 10, 0.1 ) ;
+    printf( "Root = %.1f", root ) ;
+    return 0 ;
+}//end function
+
+double f( double x ) {
+    return 2 * x - 5 ;
+}//end function
 ```
 
 ## TEST CASE
@@ -13,63 +28,16 @@
 ```
 ### Output
 ```bash
+-1.0 4.5 10.0
+-1.0 1.8 4.5
+1.8 3.1 4.5
+1.8 2.4 3.1
+2.4 2.8 3.1
+2.4 2.6 2.8
+2.4 2.5 2.6
+2.4 2.5 2.5
 
-```
-
-## TEST CASE
-### Input
-```bash
-
-```
-### Output
-```bash
-
-```
-
-## TEST CASE
-### Input
-```bash
-
-```
-### Output
-```bash
-
-```
-## TEST CASE
-### Input
-```bash
-
-```
-### Output
-```bash
-
-```
-## TEST CASE
-### Input
-```bash
-
-```
-### Output
-```bash
-
-```
-## TEST CASE
-### Input
-```bash
-
-```
-### Output
-```bash
-
-```
-## TEST CASE
-### Input
-```bash
-
-```
-### Output
-```bash
-
+Root = 2.5
 ```
 
 ## มาตรฐานการตรวจตามหลักการเรียนรู้ของบลูม
