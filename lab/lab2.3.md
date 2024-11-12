@@ -7,10 +7,9 @@ str1 = "I/Love/You"
 splitter = '/'
 
 จะได้ผลลัพธ์คือ
-str2[0] = "I"
-str2[1] = "Love"
-str2[2] = "You"
-
+- str2[0] = "I"
+- str2[1] = "Love"
+- str2[2] = "You"
 count = 3
 
 
