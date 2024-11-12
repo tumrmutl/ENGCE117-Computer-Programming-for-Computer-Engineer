@@ -8,9 +8,9 @@
 int GetSet( int [] ) ;
 
 int main() {
- int *data, num ;
- num = GetSet( &data ) ;
- return 0 ;
+    int *data, num ;
+    num = GetSet( &data ) ;
+    return 0 ;
 }//end function
 ```
 
