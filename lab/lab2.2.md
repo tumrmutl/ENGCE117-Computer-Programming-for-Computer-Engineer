@@ -6,13 +6,11 @@
 ## FIX CODE
 ```c++
 #inclue <stdio.h>
-
 char* reverse( char str1[]) ;
-
 int main() {
- char text[ 50 ] = "I Love You" ;
- char *out ;
- out = reverse( text ) ;
+    char text[ 50 ] = "I Love You" ;
+    char *out ;
+    out = reverse( text ) ;
 }//end function
 ```
 
