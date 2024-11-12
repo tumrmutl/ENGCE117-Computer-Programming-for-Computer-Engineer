@@ -16,9 +16,78 @@ count = 3
 
 ## FIX CODE
 ```c++
+#include <stdio.h>
+
+void explode( char str1[], char splitter, char str2[][10], int *count ) ;
+
+int main() {
+    char out[ 20 ][ 10 ] ;
+    int num ;
+    explode( "I/Love/You", "/" ) ;
+    return 0 ;
+}//end function
+```
+
+## TEST CASE
+### Input
+```bash
+I/Love/You
+
+```
+### Output
+```bash
+str2[0] = "I"
+str2[1] = "Love"
+str2[2] = "You"
+count = 3
 
 ```
 
+## TEST CASE
+### Input
+```bash
+Hello World From Me
+
+```
+### Output
+```bash
+str2[0] = "Hello"
+str2[1] = "World"
+str2[2] = "From"
+str2[3] = "Me"
+count = 4
+
+```
+
+## TEST CASE
+### Input
+```bash
+I///Love//You/
+
+```
+### Output
+```bash
+str2[0] = "I"
+str2[1] = "Love"
+str2[2] = "You"
+count = 3
+
+```
+## TEST CASE
+### Input
+```bash
+Apple,Orange,Banana,Grapes
+
+```
+### Output
+```bash
+str2[0] = "Apple"
+str2[1] = "Orange"
+str2[2] = "Banana"
+str2[3] = "Grapes"
+count = 4
+
+```
 ## TEST CASE
 ### Input
 ```bash
@@ -26,62 +95,51 @@ count = 3
 ```
 ### Output
 ```bash
+count = 0
+
+```
+## TEST CASE
+### Input
+```bash
+January-February-March-April
+
+```
+### Output
+```bash
+str2[0] = "January"
+str2[1] = "February"
+str2[2] = "March"
+str2[3] = "April"
+count = 4
+
+```
+## TEST CASE
+### Input
+```bash
+key:value:key2:value2
+
+```
+### Output
+```bash
+str2[0] = "key"
+str2[1] = "value"
+str2[2] = "key2"
+str2[3] = "value2"
+count = 4
 
 ```
 
 ## TEST CASE
 ### Input
 ```bash
+   Hello   World  
 
 ```
 ### Output
 ```bash
-
-```
-
-## TEST CASE
-### Input
-```bash
-
-```
-### Output
-```bash
-
-```
-## TEST CASE
-### Input
-```bash
-
-```
-### Output
-```bash
-
-```
-## TEST CASE
-### Input
-```bash
-
-```
-### Output
-```bash
-
-```
-## TEST CASE
-### Input
-```bash
-
-```
-### Output
-```bash
-
-```
-## TEST CASE
-### Input
-```bash
-
-```
-### Output
-```bash
+str2[0] = "Hello"
+str2[1] = "World"
+count = 2
 
 ```
 
