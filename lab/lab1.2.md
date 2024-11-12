@@ -1,29 +1,30 @@
 ## โจทย์
-จงเขียนคำสั่งในการสร้างและเรียกใช้งานฟังก์ชัน GetSet() เพื่อรับจำนวนสมาชิกและค่าของแต่ละสมาชิกในเซต จากคีย์บอร์ด ตามโปรโตไทป์ต่อไปนี้ 
-
-> [!NOTE]
-> `initialize` can only be called once (and it should be called BEFORE creating your first editor).
+จงเขียนคำสั่งในการสร้างและเรียกใช้งานฟังก์ชัน GetSet() เพื่อรับจำนวนสมาชิกและค่าของแต่ละสมาชิกในเซต จากคีย์บอร์ด ตามโปรโตไทป์ต่อไปนี้
 
 ## FIX CODE
 ```c++
 #include <stdio.h>
-int *GetSet( int * ) ;
+#include <string.h>
+
+void GetSet( int [], int * ) ;
 
 int main() {
-   int *data, num ;
-   data = GetSet( &num ) ;
-   return 0 ;
+ int *data, num ;
+ GetSet( &data, &num ) ;
+ return 0 ;
 }//end function
 ```
 
 ## TEST CASE
 ### Input
 ```bash
-533
+5
+2 4 6 8 10
 ```
 ### Output
 ```bash
-533
+3
+5 10 15
 ```
 
 ## มาตรฐานการตรวจตามหลักการเรียนรู้ของบลูม
