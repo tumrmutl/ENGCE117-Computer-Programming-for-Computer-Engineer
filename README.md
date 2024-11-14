@@ -51,14 +51,14 @@
 7| **อ๊อบเจ็คลิงค์ลิส**|[7.1](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab7.1.md) [7.2](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab7.2.md) 
 8| **สอบกลางภาค**|[8.1](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab8.1.md) 
 9| **การจัดการไฟล์ข้อมูล**|[9.1](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab9.1.md) 
-10| **ฟังก์ชันเรียกตัวเอง**|[]() 
-11| **เทคนิคอัลกอริทึมแบบ Divide-and-Conquer**|[]() 
-12| **เทคนิคอัลกอริทึมแบบ Greedy**|[]() 
-13| **เทคนิคอัลกอริทึมแบบ Dynamic Algorithm Programming**|[]() 
-14| **เทคนิคอัลกอริทึมแบบ Backtracking Algorithm**|[]() 
-15| **วิธีการเชิงตัวเลขแบบ Bisection**|[]() 
-16| **ทบทวนบทเรียน** <br />ทบทวนบทเรียน|[]() 
-17| **ทบทวนบทเรียน** <br />ทบทวนบทเรียน|[]() 
+10| **ฟังก์ชันเรียกตัวเอง**|[10.1](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab10.1.md) [10.2](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab10.2.md) [10.3](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab10.3.md) 
+11| **เทคนิคอัลกอริทึมแบบ Divide-and-Conquer**|[11.1](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab11.1.md) [11.2](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab11.2.md) 
+12| **เทคนิคอัลกอริทึมแบบ Greedy**|[12.1](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab12.1.md) [12.2](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab12.2.md) 
+13| **เทคนิคอัลกอริทึมแบบ Dynamic Algorithm Programming**|[13.1](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab13.1.md) 
+14| **เทคนิคอัลกอริทึมแบบ Backtracking Algorithm**|[14.1](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab14.1.md) 
+15| **วิธีการเชิงตัวเลขแบบ Bisection**|[15.1](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab15.1.md) 
+16| **ทบทวนบทเรียน** <br />ทบทวนบทเรียน|[16.1](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab16.1.md) 
+17| **ทบทวนบทเรียน** <br />ทบทวนบทเรียน|- 
 18| **สอบปลายภาค**|[]() 
 
 ### อื่นๆ
