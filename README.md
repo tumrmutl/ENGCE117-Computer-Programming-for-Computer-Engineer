@@ -57,8 +57,8 @@
 13| **เทคนิคอัลกอริทึมแบบ Dynamic Algorithm Programming**|[Lab](https://github.com/tumrmutl/ENGCC304-Computer-Programming/blob/main/Lab/Lab13-Pointer.md)
 14| **เทคนิคอัลกอริทึมแบบ Backtracking Algorithm**|[Lab](https://github.com/tumrmutl/ENGCC304-Computer-Programming/blob/main/Lab/Lab14-Min-Max.md)
 15| **วิธีการเชิงตัวเลขแบบ Bisection**|[Lab](https://github.com/tumrmutl/ENGCC304-Computer-Programming/blob/main/Lab/Lab15-File.md)
-16| **ทบทวนบทเรียน** <br />ทบทวนบทเรียน<br /><br />**Lab** : [Lab](https://github.com/tumrmutl/ENGCC304-Computer-Programming/blob/main/Lab/Lab16-Basic-Sort-Search.md)
-17| **ทบทวนบทเรียน** <br />ทบทวนบทเรียน<br /><br />**Lab** : [Lab](https://github.com/tumrmutl/ENGCC304-Computer-Programming/blob/main/Lab/Lab17-Apply.md)
+16| **ทบทวนบทเรียน** <br />ทบทวนบทเรียน|[Lab](https://github.com/tumrmutl/ENGCC304-Computer-Programming/blob/main/Lab/Lab16-Basic-Sort-Search.md)
+17| **ทบทวนบทเรียน** <br />ทบทวนบทเรียน|[Lab](https://github.com/tumrmutl/ENGCC304-Computer-Programming/blob/main/Lab/Lab17-Apply.md)
 18| **สอบปลายภาค**|[Lab](https://github.com/tumrmutl/ENGCC304-Computer-Programming/blob/main/Lab/Lab18-Apply.md)
 
 ### อื่นๆ
