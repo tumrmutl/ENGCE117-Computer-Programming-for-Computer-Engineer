@@ -59,7 +59,7 @@
 15| **วิธีการเชิงตัวเลขแบบ Bisection**|[15.1](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab15.1.md) 
 16| **ทบทวนบทเรียน** <br />ทบทวนบทเรียน|[16.1](https://github.com/tumrmutl/ENGCE117-Computer-Programming-for-Computer-Engineer/blob/main/lab/lab16.1.md) 
 17| **ทบทวนบทเรียน** <br />ทบทวนบทเรียน|- 
-18| **สอบปลายภาค**|[]() 
+18| **สอบปลายภาค**|- 
 
 ### อื่นๆ
 * [ข้อมูลอาจารย์](https://lms.rmutl.ac.th/teachers/detail/24002453439513437/5fd51c39cb8f05637cb8e96df6ec9392edb3ec16ea62666620cda4fd8f8b3e72)
